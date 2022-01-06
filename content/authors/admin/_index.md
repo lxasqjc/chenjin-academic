@@ -32,6 +32,4 @@ My recent research interests include efficient deep learning based analysis of l
 
 Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). My thesis was about [Developing a Hierarchical Digital Rock Analysis Workflow](https://core.ac.uk/download/pdf/199293389.pdf), involving machine learning based multi-scale 2D/3D image reconstruction, segmentation, registration, fusion and fluid flow simulation.
 
-During PhD, I also worked as a research intern at [Canadian Natural Resources International (UK)](https://www.cnrl.com/) in Aberdeen. I was responsible for building the physical reservoir scale models and investigated fluid flow behaviours through simulation, and with the fortune to present the team and helped decisions worth millions.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
