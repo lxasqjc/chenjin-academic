@@ -1,11 +1,14 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: " "
 headless: true
 weight: 20
 title: ""
-active: true
-author: admin
+design:
+  background:
+    text_color_light: false
 ---
 Hi! I’m a postdoctoral research fellow in the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [University College London](https://www.ucl.ac.uk/), working with [Dr Thomy Mertzanidou](http://www0.cs.ucl.ac.uk/staff/T.Mertzanidou/), [Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) and [Dr Marnix Jansen](https://iris.ucl.ac.uk/iris/browse/profile?upi=MJJAN31).
 
