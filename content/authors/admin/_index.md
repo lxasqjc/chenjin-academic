@@ -1,11 +1,9 @@
 ---
 title: Chen Jin
 role: Research Assistant at Centre for Medical Image Computing (CMIC)
+avatar_filename: ""
 bio: University College London
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: twitter
     icon_pack: fab
