@@ -1,77 +1,39 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Chen Jin
+role: Research Assistant at Centre for Medical Image Computing (CMIC)
+bio: University College London
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Jinchen027
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?hl=en&user=4on9TiAAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/lxasqjc
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/chen-jin-33287593/
+organizations:
+  - name: University College London
+    url: https://www.ucl.ac.uk/
+education:
+  courses: []
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: true
 ---
+Hi! I’m a research assistant in the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [University College London](https://www.ucl.ac.uk/), working with [Dr Thomy Mertzanidou](http://www0.cs.ucl.ac.uk/staff/T.Mertzanidou/), [Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) and [Dr Marnix Jansen](https://iris.ucl.ac.uk/iris/browse/profile?upi=MJJAN31).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My recent research interests include efficient deep learning based analysis of large volume images like [ultra-high resolution 2D images](https://arxiv.org/abs/2007.15124), 3D image or video streams in healthcare applications. I’m also interested in the multiple scale/ modality learning and 3D reconstruction, particularly in medical or geographical image domain.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). My thesis was about [Developing a Hierarchical Digital Rock Analysis Workflow](https://core.ac.uk/download/pdf/199293389.pdf), involving machine learning based multi-scale 2D/3D image reconstruction, segmentation, registration, fusion and fluid flow simulation.
+
+During PhD, I also worked as a research intern at [Canadian Natural Resources International (UK)](https://www.cnrl.com/) in Aberdeen. I was responsible for building the physical reservoir scale models and investigated fluid flow behaviours through simulation, and with the fortune to present the team and helped decisions worth millions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
