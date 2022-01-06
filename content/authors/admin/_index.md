@@ -5,9 +5,6 @@ avatar_filename: ""
 bio: University College London
 interests: []
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Jinchen027
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?hl=en&user=4on9TiAAAAAJ
@@ -17,6 +14,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chen-jin-33287593/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/Jinchen027
 organizations:
   - name: University College London
     url: https://www.ucl.ac.uk/
