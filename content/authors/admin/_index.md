@@ -20,8 +20,6 @@ social:
 organizations:
   - name: University College London
     url: https://www.ucl.ac.uk/
-education:
-  courses: []
 email: ""
 superuser: true
 highlight_name: true
