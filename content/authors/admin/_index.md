@@ -3,10 +3,24 @@ title: Chen Jin
 role: Research Assistant at Centre for Medical Image Computing (CMIC)
 avatar_filename: ""
 bio: University College London
-interests: []
+
+interests:
+- Artificial General Intelligence
+- Data and Computation Efficient Machine Learning
+- Computater Vision
+
+news:
+- Having limited computation resource? check out our latest work on Learning to downsample for low-cost segmentation.
+- Expert annotators don't agree each other? Check out our work publised at NeurIPS 2021.
+- Summer School 2021.
+
+
 social:
-  - icon: graduation-cap
+  - icon: envelope
     icon_pack: fas
+    link: chen.jin@ucl.ac.uk
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&user=4on9TiAAAAAJ
   - icon: github
     icon_pack: fab

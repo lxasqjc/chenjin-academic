@@ -27,6 +27,18 @@ address:
   region: UK
 
 contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: My Email
+    link: 'chen.jin@ucl.ac.uk'
+  - icon: google-scholar
+    icon_pack: ai
+    name: My Google Scholar
+    link: 'https://scholar.google.co.uk/citations?hl=en&user=4on9TiAAAAAJ'
+  - icon: github
+    icon_pack: fab
+    name: My Github
+    link: 'https://github.com/lxasqjc'
   - icon: twitter
     icon_pack: fab
     name: My Twitter
