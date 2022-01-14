@@ -7,9 +7,9 @@ list_format: 1
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 94
 
-title: Recent Publications
+title: Publications View4
 subtitle: ''
 
 content:
@@ -36,7 +36,7 @@ design:
 #   2 = Compact
 #   3 = Card
 #   4 = Citation (publication only)
-  view: 6
+  view: 4
   columns: '1'
 ---
 
