@@ -36,10 +36,13 @@ design:
 #   2 = Compact
 #   3 = Card
 #   4 = Citation (publication only)
+#   5 = Showcase
   view: 5
   columns: '1'
 ---
 
+<!--
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+-->
