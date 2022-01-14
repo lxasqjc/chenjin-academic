@@ -41,7 +41,7 @@ links:
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
-  preview_only: true
+  preview_only: false
 publishDate: 2017-01-01T00:00:00Z
 url_poster: http://example.org
 url_code: http://example.org
