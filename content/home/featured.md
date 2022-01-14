@@ -5,7 +5,7 @@ widget: featured
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 # Order that this section appears on the page.
 weight: 80
 list_format: 1
@@ -31,6 +31,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 'Masonry'
-  columns: '2'
+  view: 5
+  columns: '1'
 ---
