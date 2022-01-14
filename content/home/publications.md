@@ -2,7 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-
+list_format: 1
 # This file represents a page section.
 headless: true
 
