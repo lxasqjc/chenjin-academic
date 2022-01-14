@@ -19,7 +19,6 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
     category: ""
     publication_type: ""
     tag: ""
