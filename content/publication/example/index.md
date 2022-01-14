@@ -14,7 +14,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
-draft: true
+draft: false
 featured: true
 tags:
   - url_pdf
@@ -45,7 +45,7 @@ image:
 publishDate: 2017-01-01T00:00:00Z
 url_poster: http://example.org
 url_code: http://example.org
-doi: ""
+doi: http://example.org
 ---
 
 {{% callout note %}}
