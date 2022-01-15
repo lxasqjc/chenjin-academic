@@ -58,7 +58,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: foveation.jpg
-date: 2020-09-29T00:00:00.000Z
+date: 2022-01-15T00:40:17.187Z
 publishDate: 2020-09-29T00:00:00.000Z
 url_code: https://github.com/lxasqjc/Foveation-Segmentation
 ---
