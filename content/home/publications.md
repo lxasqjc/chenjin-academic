@@ -37,8 +37,8 @@ design:
 #   3 = Card
 #   4 = Citation (publication only)
 #   5 = Showcase
-  view: 5
-  columns: '2'
+  view: 2
+  columns: '1'
 ---
 
 <!--
