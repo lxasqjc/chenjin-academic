@@ -1,5 +1,6 @@
 ---
-title: Disentangling Human Error from the Ground Truth in Segmentation of Medical Images
+title: Disentangling Human Error from the Ground Truth in Segmentation of
+  Medical Images
 publication_types:
   - "1"
 authors:
@@ -33,7 +34,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: In *Wowchemy Conference*
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: http://example.org
 links:
   - name: Custom Link
@@ -42,7 +43,8 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+  filename: humanerror.jpg
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: http://example.org
 url_code: http://example.org
 doi: ""
