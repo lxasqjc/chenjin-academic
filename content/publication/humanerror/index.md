@@ -1,5 +1,5 @@
 ---
-title: An example conference paper
+title: Disentangling Human Error from the Ground Truth in Segmentation of Medical Images
 publication_types:
   - "1"
 authors:
