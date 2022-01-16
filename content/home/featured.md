@@ -9,7 +9,7 @@ active: true
 # Order that this section appears on the page.
 weight: 80
 list_format: 1
-title: Key Publications
+title: Featured Publications
 subtitle: ""
 
 content:
@@ -32,6 +32,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   #   5 = Showcase
-  view: 5
+  view: community/li_compact_citation
   columns: '1'
 ---
