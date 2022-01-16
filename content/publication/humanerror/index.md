@@ -4,59 +4,58 @@ title: Disentangling Human Error from the Ground Truth in Segmentation of
 publication_types:
   - "1"
 authors:
-  - admin
-  - Robert Ford
-publication_short: In *ICW*
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+  - Le Zhang
+  - Ryutaro Tanno
+  - Mou-Cheng Xu
+  - Chen Jin
+  - Joseph Jacob
+  - Olga Ciccarelli
+  - Frederik Barkhof
+  - Daniel C Alexander
+
+publication: In *NeurIPS 2020*
+publication_short: In NeurIPS
+abstract: Recent years have seen increasing use of supervised learning methods for segmentation tasks. However, the predictive performance of these algorithms depends on the quality of labels. This problem is particularly pertinent in the medical image domain, where both the annotation cost and inter-observer variability are high. In a typical label acquisition process, different human experts provide their estimates of the “true” segmentation labels under the influence of their own biases and competence levels. Treating these noisy labels blindly as the ground truth limits the performance that automatic segmentation algorithms can achieve. In this work, we present a method for jointly learning, from purely noisy observations alone, the reliability of individual annotators and the true segmentation label distributions, using two coupled CNNs. The separation of the two is achieved by encouraging the estimated annotators to be maximally unreliable while achieving high fidelity with the noisy training data. We first define a toy segmentation dataset based on MNIST and study the properties of the proposed algorithm. We then demonstrate the utility of the method on three public medical imaging segmentation datasets with simulated (when necessary) and real diverse annotations: 1) MSLSC (multiple-sclerosis lesions); 2) BraTS (brain tumours); 3) LIDC-IDRI (lung abnormalities). In all cases, our method outperforms competing methods and relevant baselines particularly in cases where the number of annotations is small and the amount of disagreement is large. The experiments also show strong ability to capture the complex spatial characteristics of annotators’ mistakes. Our code is available at [https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images](https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images).
 draft: false
 share: true
+slides: ""
+
+summary: Different human experts provide their estimates of the “true” segmentation labels under the influence of their own biases and competence levels. Treating these noisy labels blindly as the ground truth limits the performance that automatic segmentation algorithms can achieve. In this work, we present a method for jointly learning, from purely noisy observations alone, the reliability of individual annotators and the true segmentation label distributions, using two coupled CNNs.
+url_pdf: https://arxiv.org/pdf/2007.15963
+url_video:
+url_code: https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images
+links:
+  - name: Link
+    url: https://arxiv.org/abs/2007.15963
+url_dataset:
+url_project:
+url_source:
+url_poster:
+url_slides:
+
+doi: ""
 featured: true
 tags:
-  - url_pdf
+  - ""
 projects:
-  - example
-slides: example
-url_pdf: http://example.org
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
-url_dataset: http://example.org
-url_project: http://example.org
-url_source: http://example.org
-url_video: http://example.org
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *Wowchemy Conference*
-date: 2013-07-01T00:00:00.000Z
-url_slides: http://example.org
-links:
-  - name: Custom Link
-    url: http://example.org
+  - humanerror
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: humanerror.jpg
-publishDate: 2017-01-01T00:00:00.000Z
-url_poster: http://example.org
-url_code: http://example.org
-doi: ""
+date: 2020-07-01T00:00:00.000Z
+publishDate: 2020-07-01T00:00:00.000Z
+
+
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
