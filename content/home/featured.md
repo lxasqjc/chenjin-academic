@@ -32,6 +32,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   #   5 = Showcase
-  view: community/li_compact_citation
-  columns: '1'
+  view: 3
+  columns: '2'
 ---
