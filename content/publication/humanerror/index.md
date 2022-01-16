@@ -60,7 +60,7 @@ summary: Different human experts provide their estimates of the “true”
   label distributions, using two coupled CNNs.
 date: 2020-07-01T00:00:00.000Z
 links:
-  - name: Link
+  - name: Arxiv
     url: https://arxiv.org/abs/2007.15963
 publishDate: 2020-07-01T00:00:00.000Z
 url_code: https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images
