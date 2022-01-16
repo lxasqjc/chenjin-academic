@@ -16,7 +16,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
 draft: false
-share: true 
+share: true
 featured: true
 tags:
   - url_pdf
@@ -41,7 +41,7 @@ links:
   - name: Custom Link
     url: http://example.org
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: humanerror.jpg

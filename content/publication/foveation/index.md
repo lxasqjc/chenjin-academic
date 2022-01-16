@@ -40,7 +40,7 @@ abstract: Segmentation of ultra-high resolution images is challenging because of
   are available at
   [https://github.com/lxasqjc/Foveation-Segmentation](https://github.com/lxasqjc/Foveation-Segmentation).
 draft: false
-share: true 
+share: true
 slides: ""
 url_pdf: https://discovery.ucl.ac.uk/id/eprint/10113531/1/paper1822.pdf
 summary: We introduce foveation module, a learnable “dataloader” which, for a
@@ -55,7 +55,7 @@ tags:
 projects:
   - foveation
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: foveation.jpg
