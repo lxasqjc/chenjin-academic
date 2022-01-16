@@ -21,17 +21,12 @@ share: true
 slides: ""
 
 summary: Different human experts provide their estimates of the “true” segmentation labels under the influence of their own biases and competence levels. Treating these noisy labels blindly as the ground truth limits the performance that automatic segmentation algorithms can achieve. In this work, we present a method for jointly learning, from purely noisy observations alone, the reliability of individual annotators and the true segmentation label distributions, using two coupled CNNs.
+
 url_pdf: https://arxiv.org/pdf/2007.15963
-url_video:
 url_code: https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images
 links:
   - name: Link
     url: https://arxiv.org/abs/2007.15963
-url_dataset:
-url_project:
-url_source:
-url_poster:
-url_slides:
 
 doi: ""
 featured: true
