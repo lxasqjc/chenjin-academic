@@ -3,7 +3,7 @@ title: Learning to Downsample for Segmentation of Ultra-High Resolution Images
 publication_types:
   - "1"
 authors:
-  - "[Chen Jin](https://chenjin.netlify.app/)"
+  - '[Chen Jin](https://chenjin.netlify.app/)'
   - Ryutaro Tanno
   - Thomy Mertzanidou
   - Eleftheria Panagiotaki
