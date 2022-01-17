@@ -9,8 +9,14 @@
   {{ $do_link = false }}
 {{ end }}
 
-{{ $link := $item.RelPermalink }}
-{{ $target := .target }}
+{{ if $item.Params.external_link | or $item.Content }}
+  {{ $link = $item.Params.external_link }}
+  {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+{{ else }}
+  {{ $link := $item.RelPermalink }}
+  {{ $target := .target }}
+{{ end }}
+
 
 {{/* Get summary. */}}
 {{ $summary := "" }}
