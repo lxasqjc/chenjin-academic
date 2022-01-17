@@ -3,11 +3,11 @@ title: Foveation for Segmentation of Mega-Pixel Histology Images
 publication_types:
   - "1"
 authors:
-  - Chen Jin
-  - Ryutaro Tanno
-  - Moucheng Xu
-  - Thomy Mertzanidou
-  - Daniel C. Alexander
+  - [Chen Jin](https://chenjin.netlify.app/)
+  - [Ryutaro Tanno](https://rt416.github.io/)
+  - [Moucheng Xu](https://moucheng2017.github.io/)
+  - [Thomy Mertzanidou](http://www0.cs.ucl.ac.uk/staff/T.Mertzanidou/)
+  - [Daniel C. Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/)
 author_notes:
   - Equal contribution
   - Equal contribution
