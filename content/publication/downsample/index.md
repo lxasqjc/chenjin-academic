@@ -17,11 +17,11 @@ slides: ""
 
 summary: We introduces an approach for learning to downscale high-resolution images for segmentation tasks. The main motivation is to adapt the sampling budget to the difficulty of segmented pixel/region. We show that learning the spatially varying downsampling strategy jointly with segmentation offers advantages in segmenting large images with limited computational budget.
 
-url_pdf: https://openreview.net/pdf?id=lobjb6Qw0p
-# url_code: https://github.com/lxasqjc/Foveation-Segmentation
 links:
   - name: Page
     url: https://lxasqjc.github.io/learn-downsample.github.io/
+url_pdf: https://openreview.net/pdf?id=lobjb6Qw0p
+# url_code: https://github.com/lxasqjc/Foveation-Segmentation
 doi: ""
 featured: true
 tags:

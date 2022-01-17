@@ -1,7 +1,7 @@
 ---
 title: Foveation for Segmentation of Ultra-High Resolution Images
 publication_types:
-  - "2"
+  - "3"
 authors:
   - Chen Jin
   - Ryutaro Tanno
@@ -32,7 +32,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: featured.png
+  filename: featured.jpg
 date: 2020-07-29T00:40:17.187Z
 publishDate: 2020-07-29T00:00:00.000Z
 
