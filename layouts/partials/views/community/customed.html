@@ -33,10 +33,8 @@
 
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
-      <div class="section-subheading article-title mb-0 mt-0">
-        {{- if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end -}}
-        {{ $item.Title | markdownify | emojify }}
-        {{- if $do_link}}</a>{{end -}}
+      <div class="section-subheading article-title mb-1 mt-3">
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
       </div>
 
       {{ if eq $item.Type "event" }}
@@ -72,7 +70,7 @@
     <div class="col-12 col-md-6 order-first {{$order}}">
       {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
       {{ with $resource }}
-      {{ $image := .Resize "360x webp" }}
+      {{ $image := .Resize "540x webp" }}
       {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
              alt="{{ $item.Title }}" loading="lazy">
