@@ -32,7 +32,7 @@
 
 
   <div class="row align-items-center">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-7">
       <div class="section-subheading article-title mb-1 mt-3">
         <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
       </div>
@@ -67,7 +67,7 @@
       </div>
 
     </div>
-    <div class="col-12 col-md-4 order-first {{$order}}">
+    <div class="col-12 col-md-5 order-first {{$order}}">
       {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
       {{ with $resource }}
       {{ $image := .Resize "540x webp" }}
