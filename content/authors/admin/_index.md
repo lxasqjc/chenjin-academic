@@ -42,6 +42,7 @@ Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 **News**:
-- Having limited computation resource? check out our latest work on Learning to downsample for low-cost segmentation.
-- Expert annotators don't agree each other? Check out our work publised at NeurIPS 2021.
-- Summer School 2021.
+- Sep 2021: Our work on [Learning to downsample](https://lxasqjc.github.io/learn-downsample.github.io/) aiming adapt the computation/sampling budget to the difficulty of segmented pixel/region.
+- July 2021: We are organizing the [foveation project](https://medicss.cs.ucl.ac.uk/projects-2021/#foveation) on [MedICSS Summer School 2021](https://medicss.cs.ucl.ac.uk/programme-2021/).
+- Sep 2020: a shorter version of our work on [Foveation for Segmentation](https://chenjin.netlify.app/publication/foveation/) is accepted at MICCAI 2020, also check out [full extensive version](https://arxiv.org/abs/2007.15124v2).
+- Aug 2020: Our attempts on [Disentangling human annotation error](https://chenjin.netlify.app/publication/humanerror/) is accepted at NeurIPS 2020.
