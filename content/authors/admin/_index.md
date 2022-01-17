@@ -4,10 +4,10 @@ role: Research Assistant at Centre for Medical Image Computing (CMIC)
 avatar_filename: ""
 bio: University College London
 
-interests:
-- Artificial General Intelligence
-- Data and Computation Efficient Machine Learning
-- Computater Vision
+# interests:
+# - Artificial General Intelligence
+# - Data and Computation Efficient Machine Learning
+# - Computater Vision
 
 news:
 - Having limited computation resource? check out our latest work on Learning to downsample for low-cost segmentation.
