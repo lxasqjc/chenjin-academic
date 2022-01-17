@@ -13,12 +13,12 @@ author_notes:
   - Equal contribution
 publication: In *MICCAI, 2020*
 publication_short: MICCAI, 2020
-abstract: Segmenting histology images is challenging because of the sheer size of the images with millions or even billions of pixels. Typical solutions include dividing input images into patches of fixed size and/or down-sampling to meet memory constraints. Such operations incur information loss in the field-of-view (FoV) i.e., spatial coverage and the image resolution. The impact on segmentation performance is, however, as yet understudied. In this work, we start with a motivational experiment which demonstrates that the trade-off between FoV and resolution affects the segmentation performance on ultra-high resolution images—and furthermore, its influence also varies spatially according to the local patterns in different areas. We then introduce foveation module, a learnable “dataloader” which, for a given ultra-high resolution image, adaptively chooses the appropriate configuration (FoV/resolution trade-off) of the input patch to feed to the downstream segmentation model at each spatial location of the image. The foveation module is jointly trained with the segmentation network to maximise the task performance. We demonstrate on three publicly available high-resolution image datasets that the foveation module consistently improves segmentation performance over the cases trained with patches of fixed FoV/resolution trade-off. Our approach achieves the SoTA performance on the DeepGlobe aerial image dataset. On the Gleason2019 histopathology dataset, our model achieves better segmentation accuracy for the two most clinically important and ambiguous classes (Gleason Grade 3 and 4) than the top performers in the challenge by 13.1% and 7.5%, and improves on the average performance of 6 human experts by 6.5% and 7.5%. Our code and trained models are available at [https://github.com/lxasqjc/Foveation-Segmentation](https://github.com/lxasqjc/Foveation-Segmentation).
+abstract: Segmenting histology images is challenging because of the sheer size of the images with millions or even billions of pixels. Typical solutions pre-process each histology image by dividing it into patches of fixed size and/or down-sampling to meet memory constraints. Such operations incur information loss in the field-of-view (FoV) (i.e., spatial coverage) and the image resolution. The impact on segmentation performance is, however, as yet understudied. In this work, we first show under typical memory constraints (e.g., 10G GPU memory) that the trade-off between FoV and resolution considerably affects segmentation performance on histology images, and its influence also varies spatially according to local patterns in different areas (see Fig. 1). Based on this insight, we then introduce foveation module, a learnable “dataloader” which, for a given histology image, adaptively chooses the ap- propriate configuration (FoV/resolution trade-off) of the input patch to feed to the downstream segmentation model at each spatial location (Fig. 1). The foveation module is jointly trained with the segmentation network to maximise the task performance. We demonstrate, on the Gleason2019 challenge dataset for histopathology segmentation, that the foveation module improves segmentation performance over the cases trained with patches of fixed FoV/resolution trade-off. Moreover, our model achieves better segmentation accuracy for the two most clinically important and ambiguous classes (Gleason Grade 3 and 4) than the top performers in the challenge by 13.1% and 7.5%, and improves on the average performance of 6 human experts by 6.5% and 7.5%.
 draft: false
 share: true
 slides: ""
 
-summary: We introduce foveation module, a learnable “dataloader” which, for a given ultra-high resolution image, adaptively chooses the appropriate configuration (FoV/resolution trade-off) of the input patch to feed to the downstream segmentation model at each spatial location of the image.
+summary: Segmenting ultra-high resolution images often needs empirical decisions on the trade-off patch configuration between field-of-view (FoV) (i.e., spatial coverage) and the image resolution. We introduce the foveation module, a jointly learnable “dataloader” which, for a given ultra-high resolution image, adaptively chooses the appropriate configuration (FoV/resolution trade-off) of the input patch to feed to the downstream segmentation model at each spatial location of the image.
 
 url_pdf: https://discovery.ucl.ac.uk/id/eprint/10113531/1/paper1822.pdf
 url_video: https://youtu.be/MxaO9DtNeEQ
@@ -34,8 +34,8 @@ image:
   focal_point: ""
   preview_only: false
   filename: foveation.jpg
-date: 2020-09-29T00:40:17.187Z
-publishDate: 2020-09-29T00:00:00.000Z
+date: 2020-04-29T00:40:17.187Z
+publishDate: 2020-04-29T00:00:00.000Z
 
 ---
 

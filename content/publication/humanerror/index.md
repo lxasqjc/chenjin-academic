@@ -58,11 +58,11 @@ summary: Different human experts provide their estimates of the “true”
   we present a method for jointly learning, from purely noisy observations
   alone, the reliability of individual annotators and the true segmentation
   label distributions, using two coupled CNNs.
-date: 2020-07-01T00:00:00.000Z
+date: 2020-11-01T00:00:00.000Z
 links:
   - name: Arxiv
     url: https://arxiv.org/abs/2007.15963
-publishDate: 2020-07-01T00:00:00.000Z
+publishDate: 2020-11-01T00:00:00.000Z
 url_code: https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images
 share: true
 ---
