@@ -9,11 +9,6 @@ bio: University College London
 # - Data and Computation Efficient Machine Learning
 # - Computater Vision
 
-news:
-- Having limited computation resource? check out our latest work on Learning to downsample for low-cost segmentation.
-- Expert annotators don't agree each other? Check out our work publised at NeurIPS 2021.
-- Summer School 2021.
-
 
 social:
   - icon: envelope
@@ -45,3 +40,8 @@ My recent research interests include efficient deep learning based analysis of l
 Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). My thesis was about [Developing a Hierarchical Digital Rock Analysis Workflow](https://core.ac.uk/download/pdf/199293389.pdf), involving machine learning based multi-scale 2D/3D image reconstruction, segmentation, registration, fusion and fluid flow simulation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+**News**:
+- Having limited computation resource? check out our latest work on Learning to downsample for low-cost segmentation.
+- Expert annotators don't agree each other? Check out our work publised at NeurIPS 2021.
+- Summer School 2021.
