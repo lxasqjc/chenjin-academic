@@ -32,7 +32,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   #   5 = Showcase
-  view: community/summary
+  view: community/customed
   columns: '1'
   flip_alt_rows: false # Flip alternate rows when in Showcase view?
 ---
