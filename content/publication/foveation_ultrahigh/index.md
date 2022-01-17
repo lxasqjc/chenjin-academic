@@ -18,7 +18,7 @@ draft: false
 share: true
 slides: ""
 
-summary: On top of [prior foveation work at MICCAI 2020](https://chenjin.netlify.app/publication/foveation/), in this extended version, we further introduce the more computational efficient hard-gated categorical sampling of FoV-resolution patch configurations at each location and provided two differentiable solutions. We demonstrated the generical applicability on three vision datasets including Cityscapes, DeepGlobe aerial image and Gleason2019 histopathology dataset.
+summary: On top of [prior foveation work at MICCAI 2020](https://chenjin.netlify.app/publication/foveation/), in this extended version, we further introduce the more computational efficient hard-gated categorical sampling of FoV-resolution patch configurations at each location and provide two differentiable solutions. We demonstrate the generical applicability on three vision datasets including Cityscapes, DeepGlobe aerial image and Gleason2019 histopathology dataset.
 
 url_pdf: https://arxiv.org/pdf/2007.15124.pdf
 url_code: https://github.com/lxasqjc/Foveation-Segmentation
