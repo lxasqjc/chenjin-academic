@@ -29,26 +29,6 @@
 
 
 <div class="col-lg-12 mb-5 view-showcase">
-
-  {{ if eq $item.Type "event" }}
-  <div class="article-metadata">
-    {{ if $item.Params.authors }}
-    <div>
-      {{ partial "page_metadata_authors" $item }}
-    </div>
-    {{ end }}
-    <span>
-      {{ partial "functions/get_event_dates" $item }}
-    </span>
-    {{ with $item.Params.location }}
-    <span class="middot-divider"></span>
-    <span>{{ . }}</span>
-    {{ end }}
-  </div>
-  {{ else }}
-    {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
-  {{ end }}
-
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="section-subheading article-title mb-0 mt-0">
