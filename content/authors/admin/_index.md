@@ -39,7 +39,7 @@ My recent research focuses on developing either [data efficient](https://lxasqjc
 
 Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). My thesis was about [Developing a Hierarchical Digital Rock Analysis Workflow](https://core.ac.uk/download/pdf/199293389.pdf), involving machine learning based multi-scale 2D/3D image reconstruction, segmentation, registration, fusion and fluid flow simulation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}} (ast updated 17/01/2022).
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_CHEN_JIN_22.pdf" "newtab" >}}CV{{< /staticref >}} (ast updated 17/01/2022).
 
 **News**:
 - Sep 2021: Our work on [Learning to downsample](https://lxasqjc.github.io/learn-downsample.github.io/) aiming adapt the computation/sampling budget to the difficulty of segmented pixel/region.
