@@ -27,13 +27,13 @@ social:
     icon_pack: fab
     link: https://twitter.com/Jinchen027
 organizations:
-  - name: University College London
-    url: https://www.ucl.ac.uk/
+  - name: UCL Computer Science
+    url: https://www.ucl.ac.uk/computer-science/
 email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I’m a research assistant in the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [University College London](https://www.ucl.ac.uk/), working with [Dr Thomy Mertzanidou](http://www0.cs.ucl.ac.uk/staff/T.Mertzanidou/), [Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) and collebrate closely with [Dr Ryutaro Tanno](https://rt416.github.io/) from [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
+Hi! I’m a research assistant in the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [UCL’s AI Centre](https://www.ucl.ac.uk/ai-centre/), working with [Dr Thomy Mertzanidou](http://www0.cs.ucl.ac.uk/staff/T.Mertzanidou/), [Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) and collebrate closely with [Dr Ryutaro Tanno](https://rt416.github.io/) from [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
 
 My recent research focuses on developing either [data efficient](https://lxasqjc.github.io/learn-downsample.github.io/) or [computation efficient](https://github.com/lxasqjc/Foveation-Segmentation) machine learning methods, and applied on analysis of large volume high resolution images. I’m also interested in designing self-supervised algorithms that allow disentangled representation learning from multiple modalities, scales and tasks at minimal supervision.
 
