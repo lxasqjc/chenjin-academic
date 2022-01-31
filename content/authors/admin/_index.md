@@ -42,7 +42,7 @@ Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_CHEN_JIN_22.pdf" "newtab" >}}CV{{< /staticref >}} (ast updated 17/01/2022).
 
 **News**:
-- Sep 2021: Our work on [Learning to downsample](https://lxasqjc.github.io/learn-downsample.github.io/) aiming adapt the computation/sampling budget to the difficulty of segmented pixel/region.
+- Jan 2022: Our work on [Learning to downsample](https://lxasqjc.github.io/learn-downsample.github.io/) is accepted by [ICLR 2022](https://openreview.net/forum?id=HndgQudNb91), which aiming to adapt the computation/sampling budget to the difficulty of segmented pixel/region.
 - July 2021: We are organizing the [foveation project](https://medicss.cs.ucl.ac.uk/projects-2021/#foveation) on [MedICSS Summer School 2021](https://medicss.cs.ucl.ac.uk/programme-2021/).
 - Sep 2020: a shorter version of our work on [Foveation for Segmentation](https://chenjin.netlify.app/publication/foveation/) is accepted at MICCAI 2020, also check out [full extensive version](https://arxiv.org/abs/2007.15124v2).
 - Aug 2020: Our attempts on [Disentangling human annotation error](https://chenjin.netlify.app/publication/humanerror/) is accepted at NeurIPS 2020.
