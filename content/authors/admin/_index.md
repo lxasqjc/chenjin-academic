@@ -37,7 +37,7 @@ Hi! I’m a research assistant in the [Centre for Medical Image Computing (CMIC
 
 My recent research focuses on developing either [data efficient](https://lxasqjc.github.io/learn-downsample.github.io/) or [computation efficient](https://github.com/lxasqjc/Foveation-Segmentation) machine learning methods, and applied on analysis of large volume high resolution images. I’m also interested in designing self-supervised algorithms that allow disentangled representation learning from multiple modalities, scales and tasks at minimal supervision.
 
-Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). My thesis was about [Developing a Hierarchical Digital Rock Analysis Workflow](https://core.ac.uk/download/pdf/199293389.pdf), involving machine learning based multi-scale 2D/3D image reconstruction, segmentation, registration, fusion and fluid flow simulation.
+Previously, I obtained my PhD in the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). My thesis was about [Developing a Hierarchical Digital Rock Analysis Workflow](https://core.ac.uk/download/pdf/199293389.pdf), involving machine learning based multi-scale 2D/3D image processing, segmentation, registration, fusion, reconstruction and fluid flow simulation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_CHEN_JIN_22.pdf" "newtab" >}}CV{{< /staticref >}} (ast updated 17/01/2022).
 
