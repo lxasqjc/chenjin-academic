@@ -20,9 +20,7 @@ summary: We introduce an approach for learning to downscale high-resolution imag
 links:
   - name: Page
     url: https://lxasqjc.github.io/learn-downsample.github.io/
-links:
-  - name: Video
-    url: https://recorder-v3.slideslive.com/?share=63834&s=2a9de36c-8627-40cd-9fa5-ef8accc61cca
+url_video: https://recorder-v3.slideslive.com/?share=63834&s=2a9de36c-8627-40cd-9fa5-ef8accc61cca
 url_pdf: https://openreview.net/pdf?id=lobjb6Qw0p
 # url_code: https://github.com/lxasqjc/Foveation-Segmentation
 doi: ""
