@@ -1,6 +1,6 @@
 ---
 title: Chen Jin
-role: Research Assistant at Centre for Medical Image Computing (CMIC)
+role: Associate Principal AI Scientist at Centre for Artificial Intelligence (CAI)
 avatar_filename: ""
 bio: University College London
 
@@ -13,7 +13,7 @@ bio: University College London
 social:
   - icon: envelope
     icon_pack: fas
-    link: chen.jin@ucl.ac.uk
+    link: chen.jin@astrazeneca.com
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&user=4on9TiAAAAAJ
@@ -27,17 +27,19 @@ social:
     icon_pack: fab
     link: https://twitter.com/Jinchen027
 organizations:
-  - name: UCL Computer Science
-    url: https://www.ucl.ac.uk/computer-science/
+  - name: Data Science & Artificial Intelligence, AstraZeneca (UK)
+    url: https://www.astrazeneca.com/r-d/data-science-and-ai.html
 email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I’m a research assistant in the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [UCL’s AI Centre](https://www.ucl.ac.uk/ai-centre/), working with [Dr Thomy Mertzanidou](http://www0.cs.ucl.ac.uk/staff/T.Mertzanidou/), [Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) and collebrate closely with [Dr Ryutaro Tanno](https://rt416.github.io/) from [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
+Hi! My name is Chen Jin, and I’m a research scientist at the Centre for Artificial Intelligence (CAI) at [Data Science & Artificial Intelligence](https://www.astrazeneca.com/r-d/data-science-and-ai.html), AstraZeneca (UK). My research focuses on [Large Multimodal Generative Models](https://arxiv.org/abs/2310.12274), Vision-Language Human-Machine Interactions, Computer Vision and Natural Language Processing for Healthcare, and Predictive Models.
 
-My recent research focuses on multimodal-multiscale-multitask self-supervised representation learning, image generation and mapping. I have also developed attention-based learnable sampling methods for either [data efficient](https://lxasqjc.github.io/learn-downsample.github.io/) or [computation efficient](https://github.com/lxasqjc/Foveation-Segmentation) machine learning, and applied on segmentation of large volume high resolution images.
+Previously, I was a research assistant at the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [UCL’s AI Centre](https://www.ucl.ac.uk/ai-centre/), where I worked on Multimodal-Multiscale-Multitask representation learning, image generation and mapping. I have also developed attention-based learnable sampling methods for either [data efficient](https://lxasqjc.github.io/learn-downsample.github.io/) or [computation efficient](https://github.com/lxasqjc/Foveation-Segmentation) machine learning, and applied on segmentation of large volume high-resolution images.
 
-Previously, I obtained my PhD in Computational Geoscience at the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). My thesis was about [Developing a Hierarchical Digital Rock Analysis Workflow](https://core.ac.uk/download/pdf/199293389.pdf), involving machine learning-based multi scale-modal image fusion, reconstruction and fluid simulation.
+Externally, I got the privilege to collaborate closely with [Dr Ryutaro Tanno](https://rt416.github.io/) from Google DeepMind, [Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) from CMIC UCL and [Prof Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/) from Artificial Intelligence and Medicine at the University of Cambridge.
+
+I obtained my PhD in Computational Geoscience at the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). My thesis was about developing a Hierarchical Digital Rock Analysis Workflow, involving machine learning-based multi scale-modal image fusion, reconstruction and fluid simulation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_CHEN_JIN_22.pdf" "newtab" >}}CV{{< /staticref >}} (ast updated 14/03/2022).
 
