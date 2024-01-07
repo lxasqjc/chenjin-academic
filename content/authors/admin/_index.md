@@ -13,7 +13,7 @@ bio: University College London
 social:
   - icon: envelope
     icon_pack: fas
-    link: chen.jin@astrazeneca.com
+    link: mailto:chen.jin@astrazeneca.com
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?hl=en&user=4on9TiAAAAAJ
