@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Chen Jin
-  - Ryutaro
+  - Ryutaro Tanno
   - Thomy Mertzanidou
   - Eleftheria Panagiotaki
   - Daniel C. Alexander
