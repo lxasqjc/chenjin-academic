@@ -21,7 +21,7 @@ links:
   - name: Page
     url: https://astrazeneca.github.io/mcpl.github.io/
 # url_video: https://recorder-v3.slideslive.com/?share=63834&s=2a9de36c-8627-40cd-9fa5-ef8accc61cca
-url_pdf: mcpl_icml24_preprint.pdf
+url_pdf: ''
 url_code: https://github.com/lxasqjc/MCPL
 doi: ""
 featured: true
