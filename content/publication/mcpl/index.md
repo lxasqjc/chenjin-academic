@@ -20,6 +20,8 @@ summary: We introduce Multi-Concept Prompt Learning (MCPL), an innovative approa
 links:
   - name: Page
     url: https://astrazeneca.github.io/mcpl.github.io/
+  - name: Arxiv
+    url: https://arxiv.org/abs/2310.12274
 # url_video: https://recorder-v3.slideslive.com/?share=63834&s=2a9de36c-8627-40cd-9fa5-ef8accc61cca
 url_pdf: 'https://github.com/lxasqjc/chenjin-academic/blob/master/content/publication/mcpl/mcpl_icml24_preprint.pdf'
 url_code: https://github.com/lxasqjc/MCPL
