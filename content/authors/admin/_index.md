@@ -44,7 +44,8 @@ I obtained my PhD in Computational Geoscience at the [Institute of GeoEnergy En
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_CHEN_JIN_22.pdf" "newtab" >}}CV{{< /staticref >}} (ast updated 14/03/2022).
 
 **News**:
-- May 2024: Our work on [Multi-Concept Prompt Learning](https://astrazeneca.github.io/mcpl.github.io/) is accepted by [ICML 2024](https://openreview.net/forum?id=F3x6uYILgL), which explored language-driven concepts learning during human-machine interactions.
+- July 2024: Our work [Local Diffusion](https://arxiv.org/abs/2404.05980) is accepted by [ECCV 2024](https://eccv2024.ecva.net/virtual/2024/papers.html?filter=titles), which explored Tackling Structural Hallucination in Image Translation.
+- May 2024: Our work [Multi-Concept Prompt Learning](https://astrazeneca.github.io/mcpl.github.io/) is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/34548), which explored language-driven concepts learning during human-machine interactions.
 - Jan 2022: Our work on [Learning to downsample](https://lxasqjc.github.io/learn-downsample.github.io/) is accepted by [ICLR 2022](https://openreview.net/forum?id=HndgQudNb91), which aiming to adapt the computation/sampling budget to the difficulty of segmented pixel/region.
 - July 2021: We are organizing the [foveation project](https://medicss.cs.ucl.ac.uk/projects-2021/#foveation) on [MedICSS Summer School 2021](https://medicss.cs.ucl.ac.uk/programme-2021/).
 - Sep 2020: a shorter version of our work on [Foveation for Segmentation](https://chenjin.netlify.app/publication/foveation/) is accepted at MICCAI 2020, also check out [full extensive version](https://arxiv.org/abs/2007.15124v2).

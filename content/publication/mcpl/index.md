@@ -22,7 +22,7 @@ links:
     url: https://astrazeneca.github.io/mcpl.github.io/
   - name: Arxiv
     url: https://arxiv.org/abs/2310.12274
-# url_video: https://recorder-v3.slideslive.com/?share=63834&s=2a9de36c-8627-40cd-9fa5-ef8accc61cca
+url_video: https://www.youtube.com/watch?v=n4irrHj8xIA
 url_pdf: 'https://openreview.net/pdf?id=F3x6uYILgL'
 url_code: https://github.com/AstraZeneca/MCPL/tree/master
 doi: ""
