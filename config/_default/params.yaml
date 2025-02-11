@@ -20,17 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: chen.jin@ucl.ac.uk
+email: jinchen0227@gmail.com
 address:
-  street: Centre for Medical Image Computing
-  city: 90 High Holborn, London
+  street: AstraZeneca, The Discovery Centre (DISC)
+  city: Cambridge
   region: UK
 
 contact_links:
-  - icon: envelope
-    icon_pack: fas
-    name: My Email
-    link: 'chen.jin@ucl.ac.uk'
   - icon: google-scholar
     icon_pack: ai
     name: My Google Scholar
