@@ -45,6 +45,7 @@ I obtained my PhD in Computational Geoscience at the [Institute of GeoEnergy En
 
 **News**:
 - Feb 2025: Our latest research [Diffusion Instruction Tuning](https://astrazeneca.github.io/vlm/) is out! Can Stable Diffusion's visual expertise enhance Llama-3.2? We propose Lavender: efficiently fine-tunes advanced vision-language models by aligning their text-vision attention with Stable Diffusion.
+- Jan 2025: Our work [Balancing Act: Diversity and Consistency in Large Language Model Ensembles](https://openreview.net/forum?id=Dl6nkKKvlX) is accepted by [ICLR 2025](https://iclr.cc/). We introduce Dynamic Mixture of Agents (DMoA), a novel inference-time ensembling strategy that dynamically adapts to balance performance, diversity, and consistency, achieving state-of-the-art results.
 - July 2024: Our work [Local Diffusion](https://arxiv.org/abs/2404.05980) is accepted by [ECCV 2024](https://eccv2024.ecva.net/virtual/2024/papers.html?filter=titles), which explored Tackling Structural Hallucination in Image Translation.
 - May 2024: Our work [Multi-Concept Prompt Learning](https://astrazeneca.github.io/mcpl.github.io/) is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/34548), which explored language-driven concepts learning during human-machine interactions.
 - Jan 2022: Our work on [Learning to downsample](https://lxasqjc.github.io/learn-downsample.github.io/) is accepted by [ICLR 2022](https://openreview.net/forum?id=HndgQudNb91), which aiming to adapt the computation/sampling budget to the difficulty of segmented pixel/region.
