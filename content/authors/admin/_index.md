@@ -33,7 +33,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! My name is Chen Jin, and I’m a research scientist at the Centre for Artificial Intelligence (CAI) at [Data Science & Artificial Intelligence](https://www.astrazeneca.com/r-d/data-science-and-ai.html), AstraZeneca (UK). My research focuses on [Large Multimodal Generative Models](https://arxiv.org/abs/2310.12274), Vision-Language Human-Machine Interactions, Computer Vision and Natural Language Processing for Healthcare, and Predictive Models.
+Hi! My name is Chen Jin, and I’m a research scientist at the Centre for Artificial Intelligence (CAI) at [Data Science & Artificial Intelligence](https://www.astrazeneca.com/r-d/data-science-and-ai.html), AstraZeneca (UK). My research focuses on Large Multimodal Generative Models, Vision-Language Human-Machine Interactions, Computer Vision and Natural Language Processing for Healthcare, and Predictive Models.
 
 Previously, I was a research assistant at the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [UCL’s AI Centre](https://www.ucl.ac.uk/ai-centre/), where I worked on Multimodal-Multiscale-Multitask representation learning, image generation and mapping. I have also developed attention-based learnable sampling methods for either [data efficient](https://lxasqjc.github.io/learn-downsample.github.io/) or [computation efficient](https://github.com/lxasqjc/Foveation-Segmentation) machine learning, and applied on segmentation of large volume high-resolution images.
 
@@ -41,9 +41,10 @@ Externally, I got the privilege to collaborate closely with [Dr Ryutaro Tanno](
 
 I obtained my PhD in Computational Geoscience at the [Institute of GeoEnergy Engineering](https://www.hw.ac.uk/uk/schools/energy-geoscience-infrastructure-society/research/ige.htm/), [Heriot-Watt University](https://www.hw.ac.uk/). My thesis was about developing a Hierarchical Digital Rock Analysis Workflow, involving machine learning-based multi scale-modal image fusion, reconstruction and fluid simulation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_CHEN_JIN_22.pdf" "newtab" >}}CV{{< /staticref >}} (ast updated 14/03/2022).
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_CHEN_JIN_22.pdf" "newtab" >}}CV{{< /staticref >}} (ast updated 14/03/2022). -->
 
 **News**:
+- Feb 2025: Our latest research [Diffusion Instruction Tuning](https://astrazeneca.github.io/vlm/) is out! Can Stable Diffusion's visual expertise enhance Llama-3.2? We propose Lavender: efficiently fine-tunes advanced vision-language models by aligning their text-vision attention with Stable Diffusion.
 - July 2024: Our work [Local Diffusion](https://arxiv.org/abs/2404.05980) is accepted by [ECCV 2024](https://eccv2024.ecva.net/virtual/2024/papers.html?filter=titles), which explored Tackling Structural Hallucination in Image Translation.
 - May 2024: Our work [Multi-Concept Prompt Learning](https://astrazeneca.github.io/mcpl.github.io/) is accepted by [ICML 2024](https://icml.cc/virtual/2024/poster/34548), which explored language-driven concepts learning during human-machine interactions.
 - Jan 2022: Our work on [Learning to downsample](https://lxasqjc.github.io/learn-downsample.github.io/) is accepted by [ICLR 2022](https://openreview.net/forum?id=HndgQudNb91), which aiming to adapt the computation/sampling budget to the difficulty of segmented pixel/region.
