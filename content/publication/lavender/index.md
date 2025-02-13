@@ -21,9 +21,9 @@ links:
   - name: Page
     url: https://astrazeneca.github.io/vlm/
   - name: Arxiv
-    url: https://arxiv.org/abs/xxxx.xxxxx
+    url: https://arxiv.org/abs/2502.06814
 # url_video: https://www.youtube.com/watch?v=n4irrHj8xIA
-url_pdf: 'lavender_preview.pdf'
+url_pdf: 'https://arxiv.org/pdf/2502.06814'
 # url_code: https://github.com/AstraZeneca/MCPL/tree/master
 doi: ""
 featured: true
