@@ -35,7 +35,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: local_diffusion.jpeg
+  filename: featured.jpg
 date: 2024-04-09T00:40:17.187Z
 publishDate: 2024-04-09T00:00:00.000Z
 
