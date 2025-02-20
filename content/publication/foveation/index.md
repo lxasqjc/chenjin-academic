@@ -18,7 +18,7 @@ draft: false
 share: true
 slides: ""
 
-summary: Segmenting ultra-high resolution images often needs empirical decisions on the trade-off patch configuration between field-of-view (FoV) (i.e., spatial coverage) and the image resolution. We introduce the foveation module, a jointly learnable “dataloader” which, for a given ultra-high resolution image, adaptively chooses the appropriate configuration (FoV/resolution trade-off) of the input patch to feed to the downstream segmentation model at each spatial location of the image.
+summary: We introduce a foveation module that dynamically adjusts patch FoV and resolution for ultra-high resolution image segmentation, achieving state-of-the-art results and significant accuracy boosts on challenging datasets.
 
 url_pdf: https://discovery.ucl.ac.uk/id/eprint/10113531/1/paper1822.pdf
 url_video: https://youtu.be/MxaO9DtNeEQ

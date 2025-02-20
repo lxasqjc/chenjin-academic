@@ -15,7 +15,7 @@ draft: false
 share: true
 slides: ""
 
-summary: We introduce an approach for learning to downscale high-resolution images for segmentation tasks. The main motivation is to adapt the sampling budget to the difficulty of segmented pixels/regions. We show that learning the spatially varying downsampling strategy jointly with segmentation offers advantages in segmenting large images with a limited computational budget.
+summary: We introduce a learned, adaptive downsampling method that prioritizes challenging regions, enabling efficient segmentation of high-res images on limited computing.
 
 links:
   - name: Page

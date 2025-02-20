@@ -51,13 +51,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: humanerror.jpg
-summary: Different human experts provide their estimates of the “true”
-  segmentation labels under the influence of their own biases and competence
-  levels. Treating these noisy labels blindly as the ground truth limits the
-  performance that automatic segmentation algorithms can achieve. In this work,
-  we present a method for jointly learning, from purely noisy observations
-  alone, the reliability of individual annotators and the true segmentation
-  label distributions, using two coupled CNNs.
+summary: We introduce a dual-CNN method that learns both annotator reliability and the true segmentation labels from noisy expert annotations, overcoming biases that hinder segmentation performance.
 date: 2020-11-01T00:00:00.000Z
 links:
   - name: Arxiv
