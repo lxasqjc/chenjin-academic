@@ -44,6 +44,7 @@ I obtained my PhD in Computational Geoscience at the [Institute of GeoEnergy En
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_CHEN_JIN_22.pdf" "newtab" >}}CV{{< /staticref >}} (ast updated 14/03/2022). -->
 
 **News**:
+- May 2025: We have two papers accepted at ICML 2025: [Diffusion Instruction Tuning](https://astrazeneca.github.io/vlm/) and [Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation](https://openreview.net/forum?id=9bzgpYtQZn&referrer=%5BTasks%5D(%2Ftasks)).
 - Feb 2025: Our latest research [Diffusion Instruction Tuning](https://astrazeneca.github.io/vlm/) is out! Can Stable Diffusion's visual expertise enhance Llama-3.2? We propose Lavender: efficiently fine-tunes advanced vision-language models by aligning their text-vision attention with Stable Diffusion.
 - Jan 2025: Our work [Balancing Act: Diversity and Consistency in Large Language Model Ensembles](https://openreview.net/forum?id=Dl6nkKKvlX) is accepted by [ICLR 2025](https://iclr.cc/). We introduce Dynamic Mixture of Agents (DMoA), a novel inference-time ensembling strategy that dynamically adapts to balance performance, diversity, and consistency, achieving state-of-the-art results.
 - July 2024: Our work [Local Diffusion](https://arxiv.org/abs/2404.05980) is accepted by [ECCV 2024](https://eccv2024.ecva.net/virtual/2024/papers.html?filter=titles), which explored Tackling Structural Hallucination in Image Translation.
