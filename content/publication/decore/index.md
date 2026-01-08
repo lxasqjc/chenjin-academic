@@ -30,6 +30,11 @@ tags:
   - LLM Inference
 projects:
   - decore
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: featured.png
 date: 2024-10-01T00:00:00.000Z
 publishDate: 2024-10-01T00:00:00.000Z
 

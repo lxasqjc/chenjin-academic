@@ -35,6 +35,11 @@ tags:
   - Segmentation
 projects:
   - segment-anyword
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: featured.png
 date: 2025-01-10T00:00:00.000Z
 publishDate: 2025-01-10T00:00:00.000Z
 
