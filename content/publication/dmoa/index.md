@@ -5,9 +5,14 @@ publication_types:
 authors:
   - Abdullah Abdulaal
   - Chen Jin
-  - Nicolas Montaña-Brown
-  - Ana-Paula Gema
-  - Diego Castro
+  - Nina Montaña-Brown
+  - Aryo Pradipta Gema
+  - Daniel C Castro
+  - Daniel C Alexander
+  - Philip Teare
+  - Tom Diethe
+  - Dino Oglic
+  - Amrutha Saseendran
 publication: ICLR, 2025
 publication_short: ICLR, 2025
 abstract: A test-time LLM ensembling strategy that dynamically adapts to balance performance, diversity, and consistency, achieving state-of-the-art results.
