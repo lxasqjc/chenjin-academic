@@ -28,7 +28,7 @@ url_code: https://github.com/edshkim98/LocalDiffusion-Hallucination
 doi: ""
 featured: true
 tags:
-  - ""
+  - Diffusion Models
 projects:
   - local_diffusion
 image:

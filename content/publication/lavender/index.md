@@ -28,7 +28,7 @@ url_pdf: 'https://arxiv.org/pdf/2502.06814'
 doi: ""
 featured: true
 tags:
-  - ""
+  - Diffusion Models
 projects:
   - lavender
 image:
