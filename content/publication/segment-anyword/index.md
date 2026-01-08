@@ -3,10 +3,16 @@ title: Segment Anyword
 publication_types:
   - "1"
 authors:
-  - Ryutaro Tanno
+  - Zhihua Liu
   - Amrutha Saseendran
+  - Lei Tong
+  - Xilin He
+  - Fariba Yousefi
+  - Nikolay Burlutskiy
+  - Dino Oglic
   - Tom Diethe
   - Philip Teare
+  - Huiyu Zhou
   - Chen Jin
 publication: ICML, 2025
 publication_short: ICML, 2025
