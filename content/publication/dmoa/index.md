@@ -30,6 +30,7 @@ doi: ""
 featured: true
 tags:
   - LLM Inference
+  - Agentic AI
 projects:
   - dmoa
 image:
