@@ -7,12 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
+  - name: Featured Research
     url: '#featured'
+    weight: 40
+  - name: Research Outputs
+    url: '#research'
     weight: 50
+  - name: Blog
+    url: '/post/'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
