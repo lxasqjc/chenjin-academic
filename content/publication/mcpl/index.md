@@ -15,7 +15,7 @@ draft: false
 share: true
 slides: ""
 
-summary: We introduce Multi-Concept Prompt Learning (MCPL), an innovative approach in textural inversion, focusing on mask-free learning multiple object-level concepts simultaneously from a single sentence-image pair.
+summary: Personalised image generation extending textual inversion for mask-free learning of multiple concepts from a single sentence–image pair (Stable Diffusion).
 
 links:
   - name: Page
@@ -28,7 +28,7 @@ url_code: https://github.com/AstraZeneca/MCPL/tree/master
 doi: ""
 featured: true
 tags:
-  - ""
+  - Diffusion Models
 projects:
   - mcpl
 image:

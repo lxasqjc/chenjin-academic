@@ -25,7 +25,8 @@ url_code: https://github.com/lxasqjc/Foveation-Segmentation
 doi: ""
 featured: true
 tags:
-  - ""
+  - Medical Imaging
+  - Segmentation
 projects:
   - foveation_ultrahigh
 image:
