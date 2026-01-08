@@ -28,7 +28,7 @@ url_code: https://github.com/AstraZeneca/MCPL/tree/master
 doi: ""
 featured: true
 tags:
-  - ""
+  - Vision-Language
 projects:
   - mcpl
 image:
