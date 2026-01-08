@@ -10,6 +10,7 @@ authors:
   - Philip Teare
   - Benjamin Alex
   - Pasquale Minervini
+  - Amrutha Saseendran
 publication: EMNLP, 2025
 publication_short: EMNLP, 2025
 abstract: Training-free decoding that mitigates LLM hallucinations by contrasting a base model with a masked-retrieval variant, boosting summarisation by up to 18.6%.
