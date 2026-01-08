@@ -9,7 +9,7 @@ active: true
 # Order that this section appears on the page.
 weight: 80
 list_format: 1
-title: Featured Publications
+title: Featured Research
 subtitle: ""
 
 content:

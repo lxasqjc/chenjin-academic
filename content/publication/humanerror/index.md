@@ -43,9 +43,10 @@ projects:
 slides: ""
 url_pdf: https://arxiv.org/pdf/2007.15963
 doi: ""
-featured: true
+featured: false
 tags:
-  - ""
+  - Medical Imaging
+  - Segmentation
 image:
   caption: ""
   focal_point: ""

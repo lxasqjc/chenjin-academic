@@ -21,14 +21,14 @@ draft: false
 share: true
 slides: ""
 
-summary: We propose Local Diffusion, a training-free framework that segments and fuses in-distribution and OOD regions, cutting structural hallucinations by 40% in medical and 25% in natural images.
+summary: Training-free diffusion framework that reduces hallucinations via multiple local diffusion processes, cutting hallucinations by 40% (medical) and 25% (natural).
 
 url_pdf: https://arxiv.org/abs/2404.05980v5
 url_code: https://github.com/edshkim98/LocalDiffusion-Hallucination
 doi: ""
 featured: true
 tags:
-  - ""
+  - Diffusion Models
 projects:
   - local_diffusion
 image:

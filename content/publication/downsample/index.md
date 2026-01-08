@@ -26,7 +26,8 @@ url_code: https://github.com/lxasqjc/Deformation-Segmentation
 doi: ""
 featured: true
 tags:
-  - ""
+  - Medical Imaging
+  - Segmentation
 projects:
   - downsample
 image:
