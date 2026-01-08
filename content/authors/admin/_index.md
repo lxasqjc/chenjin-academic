@@ -35,13 +35,6 @@ highlight_name: true
 ---
 Hi! My name is Chen Jin, and I’m a research scientist at the Centre for Artificial Intelligence (CAI) at [Data Science & Artificial Intelligence](https://www.astrazeneca.com/r-d/data-science-and-ai.html), AstraZeneca (UK). My research focuses on Large Multimodal Generative Models, Vision-Language Human-Machine Interactions, Computer Vision and Natural Language Processing for Healthcare, and Predictive Models.
 
-**Research focus over time**:
-- **UCL (pre-AZ)**: Efficient segmentation of ultra-high-resolution histopathology images, plus early multimodal pretraining work.
-- **AstraZeneca 2023**: Diffusion models for image generation (MCPL) and follow-on supervised projects such as Local Diffusion and Segment Anyword, with ongoing causal-adapter and protein-generation extensions under submission.
-- **AstraZeneca 2024**: VLM post-training (Lavender) and supervision of LLM inference projects on ensembling and hallucination mitigation (DMoA; Decoding by Contrasting Retrieval Heads).
-- **AstraZeneca 2025**: Multimodal LLMs and agentic AI for scientific discovery in medicine, including verifier-guided, test-time scaling multi-agent systems that chain vLLM-served open models with FastAPI-served agents.
-- **Looking ahead to 2026**: Continual-learning multi-agent systems with verifier-guided stacks (GEPA, DeepConf, RL) and scalable evaluation infrastructure.
-
 Previously, I was a research assistant at the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at [UCL’s AI Centre](https://www.ucl.ac.uk/ai-centre/), where I worked on Multimodal-Multiscale-Multitask representation learning, image generation and mapping. I have also developed attention-based learnable sampling methods for either [data efficient](https://lxasqjc.github.io/learn-downsample.github.io/) or [computation efficient](https://github.com/lxasqjc/Foveation-Segmentation) machine learning, and applied on segmentation of large volume high-resolution images.
 
 Externally, I got the privilege to collaborate closely with [Dr Ryutaro Tanno](https://rt416.github.io/) from Google DeepMind, [Prof. Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) from CMIC UCL and [Prof Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/) from Artificial Intelligence and Medicine at the University of Cambridge.
