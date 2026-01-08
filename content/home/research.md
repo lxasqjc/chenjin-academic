@@ -35,6 +35,10 @@ content:
       tag: Diffusion Models
     - name: Vision-Language
       tag: Vision-Language
+    - name: LLM Inference
+      tag: LLM Inference
+    - name: Agentic AI
+      tag: Agentic AI
     - name: Segmentation
       tag: Segmentation
 

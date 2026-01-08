@@ -15,7 +15,7 @@ draft: false
 share: true
 slides: ""
 
-summary: Lavender efficiently fine-tunes advanced vision-language models by aligning their text-vision attention with Stable Diffusion.
+summary: Created Lavender, an SFT method aligning VLM text-vision attention with Stable Diffusion, boosting Llama-3.2-11B and MiniCPM-v2.5 by up to 30% on 20 tasks.
 
 links:
   - name: Page
@@ -29,6 +29,7 @@ doi: ""
 featured: true
 tags:
   - Diffusion Models
+  - Vision-Language
 projects:
   - lavender
 image:
