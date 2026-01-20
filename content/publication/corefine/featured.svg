@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#ffffff" />
+
+  <!-- Left chart -->
+  <g transform="translate(60,50)">
+    <text x="200" y="-20" font-family="Arial" font-size="18" text-anchor="middle">Avg Accuracy vs Token @512</text>
+    <rect x="0" y="0" width="420" height="300" fill="#ffffff" stroke="#333" />
+    <text x="210" y="340" font-family="Arial" font-size="14" text-anchor="middle">Tokens (×10⁷)</text>
+    <text x="-40" y="150" font-family="Arial" font-size="14" text-anchor="middle" transform="rotate(-90 -40 150)">Avg Accuracy (%)</text>
+
+    <!-- Points -->
+    <circle cx="390" cy="190" r="14" fill="#e74c3c" stroke="#111" />
+    <circle cx="80" cy="210" r="14" fill="#f7dc6f" stroke="#111" />
+    <circle cx="250" cy="40" r="14" fill="#f7dc6f" stroke="#111" />
+    <circle cx="40" cy="90" r="14" fill="#58d68d" stroke="#111" />
+    <circle cx="35" cy="60" r="14" fill="#5dade2" stroke="#111" />
+    <rect x="25" y="220" width="26" height="26" fill="#7f8c8d" stroke="#111" />
+    <rect x="55" y="200" width="26" height="26" fill="#566573" stroke="#111" />
+
+    <!-- Legend -->
+    <g transform="translate(260,20)">
+      <rect x="0" y="0" width="150" height="150" fill="#ffffff" stroke="#ccc" />
+      <circle cx="15" cy="20" r="7" fill="#e74c3c" stroke="#111" />
+      <text x="30" y="24" font-family="Arial" font-size="12">Majority</text>
+      <circle cx="15" cy="45" r="7" fill="#f7dc6f" stroke="#111" />
+      <text x="30" y="49" font-family="Arial" font-size="12">DeepConf</text>
+      <circle cx="15" cy="70" r="7" fill="#58d68d" stroke="#111" />
+      <text x="30" y="74" font-family="Arial" font-size="12">CoRefine</text>
+      <circle cx="15" cy="95" r="7" fill="#5dade2" stroke="#111" />
+      <text x="30" y="99" font-family="Arial" font-size="12">CoRefine Tree</text>
+      <rect x="9" y="112" width="12" height="12" fill="#7f8c8d" stroke="#111" />
+      <text x="30" y="122" font-family="Arial" font-size="12">DeepSeek-8B</text>
+      <rect x="9" y="132" width="12" height="12" fill="#566573" stroke="#111" />
+      <text x="30" y="142" font-family="Arial" font-size="12">Qwen3-32B</text>
+    </g>
+  </g>
+
+  <!-- Right chart -->
+  <g transform="translate(660,50)">
+    <text x="200" y="-20" font-family="Arial" font-size="18" text-anchor="middle">Avg Accuracy vs Token @20</text>
+    <rect x="0" y="0" width="420" height="300" fill="#ffffff" stroke="#333" />
+    <text x="210" y="340" font-family="Arial" font-size="14" text-anchor="middle">Tokens (×10⁷)</text>
+    <text x="-40" y="150" font-family="Arial" font-size="14" text-anchor="middle" transform="rotate(-90 -40 150)">Avg Accuracy (%)</text>
+
+    <!-- Points -->
+    <circle cx="380" cy="140" r="14" fill="#e74c3c" stroke="#111" />
+    <circle cx="290" cy="40" r="14" fill="#f7dc6f" stroke="#111" />
+    <circle cx="110" cy="90" r="14" fill="#58d68d" stroke="#111" />
+    <circle cx="150" cy="40" r="14" fill="#5dade2" stroke="#111" />
+    <rect x="20" y="230" width="26" height="26" fill="#7f8c8d" stroke="#111" />
+    <rect x="60" y="190" width="26" height="26" fill="#566573" stroke="#111" />
+
+    <!-- Legend -->
+    <g transform="translate(260,150)">
+      <rect x="0" y="0" width="150" height="150" fill="#ffffff" stroke="#ccc" />
+      <circle cx="15" cy="20" r="7" fill="#e74c3c" stroke="#111" />
+      <text x="30" y="24" font-family="Arial" font-size="12">Majority</text>
+      <circle cx="15" cy="45" r="7" fill="#f7dc6f" stroke="#111" />
+      <text x="30" y="49" font-family="Arial" font-size="12">DeepConf</text>
+      <circle cx="15" cy="70" r="7" fill="#58d68d" stroke="#111" />
+      <text x="30" y="74" font-family="Arial" font-size="12">CoRefine</text>
+      <circle cx="15" cy="95" r="7" fill="#5dade2" stroke="#111" />
+      <text x="30" y="99" font-family="Arial" font-size="12">CoRefine Tree</text>
+      <rect x="9" y="112" width="12" height="12" fill="#7f8c8d" stroke="#111" />
+      <text x="30" y="122" font-family="Arial" font-size="12">DeepSeek-8B</text>
+      <rect x="9" y="132" width="12" height="12" fill="#566573" stroke="#111" />
+      <text x="30" y="142" font-family="Arial" font-size="12">Qwen3-32B</text>
+    </g>
+  </g>
+</svg>
