@@ -14,7 +14,7 @@ draft: false
 share: true
 slides: ""
 
-summary: Confidence-guided self-refinement for adaptive test-time compute in LLM reasoning.
+summary: Scalable oversight via confidence-guided reasoning; enables safe self-correction matching parallel decoding accuracy at orders-of-magnitude lower compute.
 
 links:
   - name: Arxiv
