@@ -5,6 +5,7 @@ publication_types:
 authors:
   - Chen Jin
   - Ryutaro Tanno
+  - Tom Diethe
   - Philip Teare
 publication: Preprint
 publication_short: Preprint
@@ -15,7 +16,15 @@ slides: ""
 
 summary: Confidence-guided self-refinement for adaptive test-time compute in LLM reasoning.
 
-featured: false
+links:
+  - name: Arxiv
+    url: https://arxiv.org/abs/2602.08948
+url_pdf: 'https://arxiv.org/pdf/2602.08948'
+doi: ""
+featured: true
+tags:
+  - LLM Inference
+  - Agentic AI
 image:
   caption: ""
   focal_point: ""
@@ -26,4 +35,4 @@ publishDate: 2025-01-20T00:00:00.000Z
 
 ---
 
-Paper, arXiv, and code: coming soon.
+Page and code: coming soon.
