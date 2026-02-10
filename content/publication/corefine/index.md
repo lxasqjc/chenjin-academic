@@ -30,8 +30,8 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-date: 2025-01-20T00:00:00.000Z
-publishDate: 2025-01-20T00:00:00.000Z
+date: 2026-01-20T00:00:00.000Z
+publishDate: 2026-01-20T00:00:00.000Z
 
 ---
 
